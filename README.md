@@ -80,8 +80,7 @@ To run the API locally:
 python3 app.py
 Use code with caution.
 Markdown
-The API will be available at http://127.0.0.1:5000/
-
+The API will be available at https://hng-stage-1-api-app-daa0c2d14ea3.herokuapp.com/api/classify-number
 API Usage
 Endpoint
 GET /api/classify-number
@@ -122,21 +121,4 @@ Google Cloud App Engine
 
 Railway
 
-To deploy you should ensure that a requirements.txt includes all the needed dependencies. This file can be created by using the following command while the virtual environment is active:
-pip freeze > requirements.txt
-
-Contributing
-Feel free to fork the repository and contribute to make it better.
-
-License
-This project is open source and available under the MIT license
-
-**How to Use:**
-
-1.  **Copy:** Copy the markdown text above.
-2.  **Create File:** Create a new file named `README.md` in the root directory of your repository.
-3.  **Paste:** Paste the copied content into the file.
-4.  **Edit:** Replace `<your-github-repo-url>` with the actual URL of your GitHub repository.
-5.  **Commit:** Commit and push the `README.md` file to your repository.
-
-This will make your repository more professional and easy for other developers to use. Let me know if you have any other questions!
+To deploy you should ensure that a requirements.txt includes all the needed dependencies.
